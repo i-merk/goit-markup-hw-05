@@ -568,7 +568,7 @@ row-gap: 48px;
     letter-spacing: 0.04em;
     color: #8e8f99; 
 }
-.p-p{width: 16px; 
+.prp{width: 16px; 
     height: 16px; 
     border: 1px solid rgba(46, 47, 66, 0.4); 
     border-radius: 2px;
@@ -593,4 +593,9 @@ row-gap: 48px;
     border: none;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);  
 
+}
+.input:checked .prp{
+	background-color:  #404bbf;
+    border: none;
+    fill: #F4F4FD;
 }
