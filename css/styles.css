@@ -619,7 +619,7 @@ row-gap: 48px;
 }
 .p-svg{ position: left;}
 
-.user-privacy:checked label span {
+.user-privacy:checked + label span {
 	background-color:  #404bbf;
     border: none;
     fill: #F4F4FD;
