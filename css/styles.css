@@ -585,10 +585,12 @@ row-gap: 48px;
 }
 
 
-.input .user-comment:focus{border-color: #4D5AE5; }
-.input .user-comment:hover{border-color: #4D5AE5; }
+.input:focus{border-color: #4D5AE5; }
+.input:hover{border-color: #4D5AE5; }
 .check-b-container{margin-bottom: 24px; }
 
+.user-comment:focus{border-color: #4D5AE5; }
+.user-comment:hover{border-color: #4D5AE5; }
 .interactiv:hover { border-color: #4D5AE5;
     border: #4d5ae5;}
 .privacy{
