@@ -585,8 +585,8 @@ row-gap: 48px;
 }
 
 
-.input .interactiv .user-comment:focus{border-color: #4D5AE5; }
-.input .interactiv .user-comment:hover{border-color: #4D5AE5; }
+.input .user-comment:focus{border-color: #4D5AE5; }
+.input .user-comment:hover{border-color: #4D5AE5; }
 .check-b-container{margin-bottom: 24px; }
 
 .interactiv:hover { border-color: #4D5AE5;
